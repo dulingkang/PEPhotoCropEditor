@@ -97,7 +97,6 @@
 - (void)drawRect:(CGRect)rect
 {
     [super drawRect:rect];
-    
     CGFloat width = CGRectGetWidth(self.bounds);
     CGFloat height = CGRectGetHeight(self.bounds);
     
